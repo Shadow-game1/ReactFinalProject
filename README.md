@@ -1,8 +1,11 @@
-# React + Vite
+#Morioh-Manga    
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Es un proyecto e-commerce hecho con react. Es bastante simple pero tiene lo necesario para realizar las compras necesarias.
+Esta hecho con:
+React+Vite;
+Firebase;
+Yup;
+Formik;
+Bootstrap;
+React router.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
