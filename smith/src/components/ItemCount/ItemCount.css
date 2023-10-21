@@ -1,0 +1,16 @@
+
+.contador button{
+    background-color: #e1aa47;
+    color: aliceblue;
+    font-weight: 500;
+    border: 2px solid #8f1a26;
+}
+.contador button:hover{
+    background-color: #8f1a26;
+    transition-duration: 2s;
+    border: 2px solid #e1aa47;
+}
+.contador span{
+    color: white;
+}
+

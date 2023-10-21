@@ -1,0 +1,62 @@
+.formularioDeCompra h2{
+    color: #8f1a26;
+}
+.formularioDeCompra hr{
+    margin-bottom: 30px;
+}
+.formularioDeCompra h3{
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: black;
+    margin-top: 30px;
+    
+}
+.vol-ini h2{
+    color: #8f1a26;
+}
+.formulario-compra{
+    width: 700px;
+        padding: 30px;
+        margin:auto;
+}
+.formulario-compra input{
+    width: 100%;
+    background-color: #e1aa47;
+    padding: 10px 20px 10px 20px;
+    color: #8f1a26;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #8f1a26;
+}
+
+.vol-ini a{
+    color: white;
+    font-weight: 400;
+    font-size: 15px;
+    text-decoration: none;
+    padding: 10px;
+    background-color: #8f1a26;
+    border: 1px solid  #e1aa47;
+}
+.vol-ini a:hover{
+    background-color: #e1aa47;
+    transition-duration: 2s;
+    border: 1px solid #8f1a26;
+}
+.buttonForm{
+    display: flex;
+    justify-content: center;
+}
+.buttonForm button{
+    color: white;
+    background-color: #8f1a26;
+    border: 1px solid #e1aa47;
+    font-weight: 700;
+}
+.buttonForm button:hover{
+    background-color: #e1aa47;
+    border: 1px solid #8f1a26;
+    transition-duration: 2s;
+}
+
+

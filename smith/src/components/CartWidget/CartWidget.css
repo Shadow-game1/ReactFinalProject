@@ -1,0 +1,13 @@
+.carrito{
+    height: 45px;
+    width: 52px;
+    margin-top: 7px;
+}
+.carrito img{
+    width: 30px;
+}
+.carrito span{
+    font-weight: 700;
+    text-decoration: none;
+    color: #8f1a26;
+}

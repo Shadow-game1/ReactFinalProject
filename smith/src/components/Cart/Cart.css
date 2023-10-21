@@ -1,0 +1,73 @@
+.tC h2{
+    color: #8f1a26;
+}
+.cartProductos{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #8f1a26;
+    margin: 20px;
+}
+.imgCart{
+    width: 150px;
+    height: 200px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 100px;
+}
+.imgBox{
+    display: flex;
+    justify-content: center;
+}
+.trash{
+    height: 25px;
+    width: 25px;
+    justify-content: end;
+    margin-left: 50px;
+}
+.datosProductos{
+    display: block;
+    justify-content: start;
+    align-items: center;
+    margin: 40px;
+}
+.datosProductos h2{
+    color: #e1aa47;
+    margin-bottom: 20px;
+}
+.datosProductos h3{
+    color: white;
+    margin-bottom: 20px;
+}
+.cartVacio{
+    color: #8f1a26;
+}
+.btnCart{
+    color: white;
+    background-color: #8f1a26;
+    font-weight: 700;
+    border: 1px solid #e1aa47;
+}
+.btnCart:hover{
+    background-color: #e1aa47;
+    transition-duration: 2s;
+    border: 1px solid #8f1a26;
+}
+.cartBtn button{
+    color: white;
+    background-color: #e1aa47;
+    border: 1px solid #e1aa47;
+    margin: 15px;
+}
+.cartBtn button:hover{
+    transition-duration: 2s;
+}
+.cartBtn a{
+    color: white;
+    background-color: #8f1a26;
+    border: 1px solid #8f1a26;
+}
+.cartBtn a:hover{
+    transition-duration: 2s;
+}

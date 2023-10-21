@@ -1,0 +1,9 @@
+.producto-detalle {
+    max-width: 1100px;
+    margin: 20px auto;
+}
+.producto-detalle h2 {
+    color: #8f1a26;
+    font-size: 30px;
+    margin-bottom: 15px;
+}

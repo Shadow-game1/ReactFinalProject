@@ -1,0 +1,55 @@
+.detalle-producto{
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #8f1a26;
+}
+.detalle-producto img{
+    width: 400px;
+    height: 500px;
+    margin: 20px;
+}
+.detalle-producto div{
+    margin: 20px;
+}
+.detalle-producto div h3{
+    color: #e1aa47;
+}
+.detalle-producto div h5{
+    color: white;
+    font-size: 20px;
+}
+.detalle-producto div h4{
+    color: white;
+}
+.detalle-producto div p{
+    color: white;
+    font-weight: 500;
+}
+.detalle-producto div a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+    background-color: #e1aa47;
+    border: 2px solid #e1aa47;
+    padding: 15px;
+    border-radius: 30px;
+    font-weight: 700;
+}
+.detalle-producto div a:hover{
+    background-color: #8f1a26;
+    transition-duration: 3s;
+}
+.detalle-producto div h6{
+    color: white;
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+.detalle-producto div h2{
+    color: #e1aa47;
+    font-weight: 800;
+    font-size: 10px;
+    margin-bottom: 25px;
+}
+
+
+
